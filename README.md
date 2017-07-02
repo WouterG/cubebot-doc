@@ -22,6 +22,7 @@ Bouncer+ is a role that can be set with !setrole and !setroleid, using the `boun
 | !lock | [clear] | Bouncer | "!lock" locks the waitlist, "!lock clear" locks and clears the waitlist |
 | !unlock | | Bouncer | Unlock the waitlist |
 | !move | (userid/[@]username) position | Bouncer | Move someone to the position on the waitlist, e.g: `!move @Wouto1997 2` |
+| !remove | (userid/[@]username) | Bouncer | Remove the user from the DJ booth/waitlist |
 | !userinfo | (userid/[@]username) | Resident DJ | Get someone's woots and role |
 | !join | | Resident DJ | force-join the waitlist |
 | !roll | [maxnumber] | Everyone | Roll a dice, maxnumber is the max, default is 6 |
